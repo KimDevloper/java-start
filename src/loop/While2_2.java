@@ -1,0 +1,14 @@
+package loop;
+
+public class While2_2 {
+    public static void main(String[] args) {
+        int sum = 0;
+        int i = 100;
+        sum = sum + i;
+        System.out.println("i =" + 1 + "sum : "+ sum);
+        sum = sum + i;
+        System.out.println("i =" + 1 + "sum : "+ sum);
+        sum = sum + i;
+        System.out.println("i =" + 1 + "sum : "+ sum);
+    }
+}
